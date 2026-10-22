@@ -1,10 +1,5 @@
 /**
- * ============================================================
- * PROJECT 01 - SISTEM INFORMASI DATA SISWA
- * File        : HomeScreen.tsx
- * Fungsi      : Dashboard utama aplikasi Data Siswa.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
- * 
+ 
  * Fitur utama:
  * 1. Menampilkan identitas aplikasi.
  * 2. Menampilkan menu utama.
