@@ -1,11 +1,5 @@
 /**
- * ============================================================
- * PROJECT 01 - SISTEM INFORMASI DATA SISWA
- * File        : StudentsScreen.tsx
- * Fungsi      : Menampilkan daftar siswa, pencarian,
- *               filter status, avatar, dan navigasi detail.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
- * 
+ 
  * Fitur utama:
  * 1. Mengambil daftar siswa dari SQLite.
  * 2. Pencarian berdasarkan Nama atau NIS.
