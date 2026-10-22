@@ -1,11 +1,5 @@
 /**
- * ============================================================
- * PROJECT 01 - SISTEM INFORMASI DATA SISWA
- * File        : db.ts
- * Lokasi      : src/database/db.ts  
- * Fungsi      : Lapisan database SQLite aplikasi.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
- * 
+  
  * Project 01 dibatasi maksimal 3 tabel:
  *
  * 1. classes
