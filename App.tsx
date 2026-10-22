@@ -1,9 +1,5 @@
 /**
- * ============================================================
- * PPNP STUDENT INFORMATION - PROJECT 01
- * File        : App.tsx
- * Fungsi      : File utama aplikasi.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
+
  * 
  * Tanggung jawab utama:
  * 1. Menyiapkan database SQLite.
