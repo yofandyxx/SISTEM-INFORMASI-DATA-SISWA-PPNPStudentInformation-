@@ -1,11 +1,5 @@
 /**
- * ============================================================
- * PROJECT 01 - SISTEM INFORMASI DATA SISWA
- * File        : FormScreen.tsx
- * Lokasi      : src/screens/FormScreen.tsx
- * Fungsi      : Form Tambah dan Edit data siswa.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
- * 
+
  * Fitur utama:
  * 1. Menentukan mode Tambah atau Edit.
  * 2. Mengambil master Kelas dan Jurusan dari SQLite.
