@@ -1,13 +1,5 @@
 /**
- * ============================================================
- * PROJECT 01 - SISTEM INFORMASI DATA SISWA
- * File        : index.ts
- * Lokasi File : src/types/index.ts
- * Fungsi      : Mendefinisikan struktur/type data yang digunakan
- *               oleh database dan screen aplikasi.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
- * Type utama:
- *
+
  * 1. Status
  *    -> Membatasi nilai status siswa.
  *
