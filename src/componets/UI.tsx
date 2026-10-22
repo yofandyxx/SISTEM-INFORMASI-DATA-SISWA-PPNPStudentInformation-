@@ -1,11 +1,5 @@
 /**
- * ============================================================
- * PROJECT 01 - SISTEM INFORMASI DATA SISWA
- * File        : UI.tsx
- * Lokasi      : src/components/UI.tsx
- * Fungsi      : Menyediakan komponen UI dan konfigurasi desain
- *                yang digunakan bersama oleh beberapa screen.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
+
  * 
  * Isi utama:
  * 1. Palet warna aplikasi.
