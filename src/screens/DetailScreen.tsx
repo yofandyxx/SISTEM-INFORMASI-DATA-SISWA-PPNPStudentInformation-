@@ -1,11 +1,5 @@
 /**
- * ============================================================
- * PROJECT 01 - SISTEM INFORMASI DATA SISWA
- * File        : DetailScreen.tsx
- * Lokasi      : src/screens/DetailScreen.tsx
- * Fungsi      : Menampilkan detail seorang siswa serta
- *               menyediakan aksi Edit dan Hapus.
- * Dibuat oleh : Amrizal,S.Kom, M.Kom
+ 
  * 
  * Fitur utama:
  * 1. Menerima data siswa melalui route.params.
